@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm byteunderflow</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
-<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
-<pre align="right">public static void main(String[] args) {}</pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byteunderflow&label=Profile%20views&color=0e75b6&style=flat" alt="byteunderflow" /> </p>
 
