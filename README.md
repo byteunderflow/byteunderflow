@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm byteunderflow</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
-<video align="right" src="logo.mp4"></video>
+<video align="right" width="500" height="500"><source src="logo.mp4" type="video/mp4"></video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byteunderflow&label=Profile%20views&color=0e75b6&style=flat" alt="byteunderflow" /> </p>
 
