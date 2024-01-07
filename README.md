@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byteunderflow&label=Profile%20views&color=0e75b6&style=flat" alt="byteunderflow" /> </p>
 
-- 🔭 I’m currently working on **Square64 (Chess Engine)**
-
 - 🌱 I’m currently learning **C/C++**
 
 - 💬 Ask me about **Java, Minecraft**
